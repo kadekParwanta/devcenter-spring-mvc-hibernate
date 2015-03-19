@@ -1,6 +1,7 @@
 This quickstart will get you going with a Spring MVC Hibernate application that uses a Postgres database service, deployed to Heroku.
 
 {.note}
+DEMO
 Sample code for the [demo application](https://github.com/heroku/devcenter-spring-mvc-hibernate) is available on GitHub. Edits and enhancements are welcome. Just fork the repository, make your changes and send us a pull request.
 
 ## Prerequisites
